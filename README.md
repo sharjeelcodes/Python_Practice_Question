@@ -1,0 +1,1 @@
+> A collection of my Python practice questions, coding exercises, logic-building problems, assignments, and mini projects created during my programming learning journey. This repository covers various Python concepts including loops, functions, lists, dictionaries, file handling, OOP, and problem-solving practice. 🚀
